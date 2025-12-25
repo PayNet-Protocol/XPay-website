@@ -2,7 +2,7 @@
 
 Official landing page for PayNet protocol.
 
-**Live at:** https://paynet.network
+**Live at:** https://Chargexpay.com
 
 ## Features
 
@@ -31,6 +31,6 @@ Official landing page for PayNet protocol.
 
 ## Links
 
-- **Live Site**: https://paynet.network
+- **Live Site**: https://chargexpay.com
 - **Backend Code**: https://github.com/PayNet-Protocol/paynet-facilitator
-- **Twitter**: https://x.com/PayNetProtocol
+- **Twitter**: https://x.com/xpay402
