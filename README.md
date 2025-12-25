@@ -1,6 +1,6 @@
 # PayNet Website
 
-Official landing page for PayNet protocol.
+Official landing page for XPay protocol.
 
 **Live at:** https://Chargexpay.com
 
