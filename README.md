@@ -1,4 +1,4 @@
-# PayNet Website
+# XPAY Website
 
 Official landing page for XPay protocol.
 
